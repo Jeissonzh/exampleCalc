@@ -1,0 +1,39 @@
+.body{
+    background-color: black;
+    color: white;
+}
+
+.title{
+    text-align: center;
+    color: white;
+    text-shadow: 4px 8px #797979bb;
+    font-size: 70px;
+}
+
+.form input{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    background-color: rgb(173, 173, 197);
+    border-color: blue;
+    width: 100px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.form button{
+    background-color: rgb(70, 70, 70);
+    color: white;
+    width: 8em;
+    box-shadow: 1px 1px #888888;
+    margin: 5px;
+}
+
+#result{
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
